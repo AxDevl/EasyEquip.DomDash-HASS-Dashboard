@@ -2,6 +2,8 @@
 
 <a href="https://www.buymeacoffee.com/AxDevl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+![EasyEquip DDOMDASH bANNER](https://github.com/AxDevl/EasyEquip.DomDash-HASS-Dashboard/assets/95246520/9bb3414a-2755-4e2d-90cd-a555d9e07ae5)
+
 Hi, thanks for coming! I've created this repo for inspiration, keep up with updates to family and friends, more experience on GitHub and future career employers.
 
 It would be greatly appreciated if could 🌟 my repo if you like anything about my dashboard and support me!   
